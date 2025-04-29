@@ -1,49 +1,9 @@
 # Ignorar tudo, exceto os arquivos essenciais
 *
 !Recursos/
+!Recursos/**  # Inclui todo o conteúdo dentro de Recursos
 !DirigIA.py
 !README.md
 !LICENSE
 !.gitignore
 !requirements.txt
-
-# Excluir arquivos compilados do Python
-__pycache__/
-*.pyc
-*.pyo
-
-# Excluir diretórios de ambiente virtual
-.env/
-.venv/
-
-# Excluir configurações locais do editor
-.vscode/
-
-# Excluir arquivos de log
-*.log
-
-# Excluir arquivos temporários ou de cache
-*.tmp
-*.cache
-
-# Excluir pastas de build
-build/
-dist/
-
-# Excluir arquivos do sistema operacional
-Thumbs.db
-.DS_Store
-
-# Excluir recursos gerados dinamicamente
-recursos/generated/
-
-# Excluir datasets ou grandes arquivos temporários
-datasets/
-*.zip
-*.tar.gz
-
-# Excluir configurações pessoais do Colab
-*.ipynb_checkpoints/
-
-# Excluir arquivos do Google Drive relacionados ao treinamento
-drive/MyDrive/
