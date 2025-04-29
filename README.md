@@ -34,7 +34,8 @@ O **DirigIA** é um sistema avançado de visão computacional desenvolvido para 
 
 ---
 
-### **Etapas de Instalação**
+## **Etapas de Instalação**
+
 **1. Clone o repositório:**
 git clone https://github.com/WeverSilva/DirigIA_Interface_grafica.git
    
@@ -46,7 +47,7 @@ git clone https://github.com/WeverSilva/DirigIA_Interface_grafica.git
 
 ---
 
-### **🚀 Uso**
+## **🚀 Uso**
 
 **Iniciar o aplicativo**
 
@@ -56,7 +57,7 @@ python DirigIA.py
 
 ---
 
-### **🔧 Configuração**
+## **🔧 Configuração**
 
 **Arquivos Importantes**
 
@@ -66,7 +67,7 @@ python DirigIA.py
 
 ---
 
-### **Manipulação de Parâmetros**
+## **Manipulação de Parâmetros**
 
 **▫ Perfis operacionais:** Utilize os botões para alternar entre perfis:
 
@@ -78,7 +79,7 @@ python DirigIA.py
 
 ---
 
-### **🏗️ Arquitetura do Código**
+## **🏗️ Arquitetura do Código**
 
 **Principais Componentes**
 
@@ -92,7 +93,7 @@ python DirigIA.py
 
 ---
 
-### **📊 Treinamento**
+## **📊 Treinamento**
 
 **Carregar e Usar Modelos**
 
@@ -107,7 +108,7 @@ print(results)
 
 ---
 
-### 🤝 Contribuição
+## 🤝 Contribuição
 **Como Contribuir**
 *1. Faça o fork do repositório e crie uma ramificação para suas alterações.*
 
@@ -115,12 +116,12 @@ print(results)
 
 ---
 
-### 📜 Licença
+## 📜 Licença
 **O DirigIA está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.**
 
 ---
 
-### 📬 Contato
+## 📬 Contato
 **Para suporte ou dúvidas, entre em contato:**
 
 *▫ 📧 weversonplayofcrist@gmail.com*
