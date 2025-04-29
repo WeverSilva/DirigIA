@@ -47,6 +47,13 @@ git clone https://github.com/WeverSilva/DirigIA_Interface_grafica.git
 
 ---
 
+## **Download DirigIA.exe**
+
+Windows:
+
+
+---
+
 ## **🚀 Uso**
 
 **Iniciar o aplicativo**
