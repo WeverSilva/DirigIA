@@ -1,0 +1,9 @@
+# Ignorar tudo, exceto os arquivos essenciais
+*
+!Recursos/
+!Recursos/**  # Inclui todo o conteúdo dentro de Recursos
+!DirigIA.py
+!README.md
+!LICENSE
+!.gitignore
+!requirements.txt
