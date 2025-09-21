@@ -49,60 +49,63 @@ git clone https://github.com/WeverSilva/DirigIA_Interface_grafica.git
 
 ## **Download DirigIA.exe**
 
-Windows:
-
+- **Windows:** [Clique aqui para baixar](https://drive.google.com/file/d/16UTGdhsvEA0LfxfkzVHZ8FY68wdg_B0n/view?usp=sharing)
 
 ---
 
 ## **🚀 Uso**
 
-**Iniciar o aplicativo**
+- **Iniciar o aplicativo**
 
-**Para executar o DirigIA, use o comando:**
+▪ **Para executar o DirigIA** *(via IDE ou prompt)***, use o comando:** python DirigIA.py
 
-python DirigIA.py
+*( certifique que esteja na pasta do app )*
+
+▪ **Ou Abra o executável:** DirigIA.exe
+
+*( disponível na sessão* **download DirigIA** *)*
 
 ---
 
 ## **🔧 Configuração**
 
-**Arquivos Importantes**
+- **Arquivos Importantes**
 
-**▫ Dataset-PTBR_Transito_YOLOv8n.yaml:** Define classes, caminhos das imagens e estrutura do dataset.
+  - **Dataset-PTBR_Transito_YOLOv8n.yaml:** Define classes, caminhos das imagens e estrutura do dataset.
 
-**▫ Modelo treinado:** Copie o arquivo best.pt (treinado no Google Colab) para o diretório principal do projeto.
+  - **Modelo treinado:** Copie o arquivo best.pt (treinado no Google Colab) para o diretório principal do projeto.
 
 ---
 
 ## **Manipulação de Parâmetros**
 
-**▫ Perfis operacionais:** Utilize os botões para alternar entre perfis:
+- **Perfis operacionais:** Utilize os botões para alternar entre perfis:
 
-  **▫ Crítico:** Alta precisão para objetos essenciais.
+  - **Crítico:** Alta precisão para objetos essenciais.
 
-  **▫ Recomendado:** Equilíbrio entre precisão e velocidade.
+  - **Recomendado:** Equilíbrio entre precisão e velocidade.
 
-  **▫ Essencial:** Configuração rápida e simplificada.
+  - **Essencial:** Configuração rápida e simplificada.
 
 ---
 
 ## **🏗️ Arquitetura do Código**
 
-**Principais Componentes**
+- **Principais Componentes**
 
-**▫ JanelaPrincipal:** Gerencia a interface gráfica, animações e estados (Ligado/Desligado).
+  - **JanelaPrincipal:** Gerencia a interface gráfica, animações e estados (Ligado/Desligado).
 
-**▫ MenuFlutuante:** Controle de perfis operacionais e alterações dinâmicas de plano de fundo.
+  - **MenuFlutuante:** Controle de perfis operacionais e alterações dinâmicas de plano de fundo.
 
-**▫ MenuFlutuanteConfig:** Permite ajustes avançados, como movimentação e personalização do sistema.
+  - **MenuFlutuanteConfig:** Permite ajustes avançados, como movimentação e personalização do sistema.
 
-**▫ JbtEsconder:** Esconde a interface para uso otimizado em dispositivos touch.
+  - **JbtEsconder:** Esconde a interface para uso otimizado em dispositivos touch.
 
 ---
 
 ## **📊 Treinamento**
 
-**Carregar e Usar Modelos**
+- **Carregar e Usar Modelos**
 
 **1. Suba o arquivo best.pt para o diretório principal.**
 
@@ -116,7 +119,7 @@ print(results)
 ---
 
 ## 🤝 Contribuição
-**Como Contribuir**
+- **Como Contribuir**
 *1. Faça o fork do repositório e crie uma ramificação para suas alterações.*
 
 *2. Envie um pull request com uma descrição clara das melhorias ou correções propostas.*
@@ -124,14 +127,14 @@ print(results)
 ---
 
 ## 📜 Licença
-**O DirigIA está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.**
+- **O DirigIA está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.**
 
 ---
 
 ## 📬 Contato
-**Para suporte ou dúvidas, entre em contato:**
+- **Para suporte ou dúvidas, entre em contato:**
 
-*▫ 📧 weversonplayofcrist@gmail.com*
+  - *📧 weversonplayofcrist@gmail.com*
 
 ---
 
