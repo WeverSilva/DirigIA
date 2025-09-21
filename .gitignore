@@ -7,3 +7,14 @@
 !LICENSE
 !.gitignore
 !requirements.txt
+
+*license.txt
+
+
+# Ignorar executáveis
+*.exe
+
+# Ignorar pastas de build
+/build/
+/dist/
+*.spec
