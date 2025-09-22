@@ -53,6 +53,11 @@ git clone https://github.com/WeverSilva/DirigIA.git
 
 ---
 
+## 🗂️ Versões
+Veja o histórico completo de versões em [CHANGELOG.md](CHANGELOG.md).
+
+---
+
 ## **🚀 Uso**
 
 - **Iniciar o aplicativo**
