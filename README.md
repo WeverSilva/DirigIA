@@ -40,7 +40,7 @@ O **DirigIA** é um sistema avançado de visão computacional desenvolvido para 
 git clone https://github.com/WeverSilva/DirigIA.git
    
 **2. Navegue até o diretório do projeto:**
-  cd DirigIA.py
+  cd Loading_Overlay_DirigIA.py
 
 **3. Instale as dependências:**
   pip install -r requirements.txt
