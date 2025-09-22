@@ -57,13 +57,13 @@ git clone https://github.com/WeverSilva/DirigIA.git
 
 - **Iniciar o aplicativo**
 
-▪ **Para executar o DirigIA** *(via IDE ou prompt)***, use o comando:** python DirigIA.py
+▪ **Para executar o DirigIA** *(via IDE ou prompt)***, use o comando:** python Loading_Overlay_DirigIA.py
 
 *( certifique que esteja na pasta do app )*
 
-▪ **Ou Abra o executável:** DirigIA.exe
+▪ **Ou Abra o executável:** Instalador DirigIA.exe
 
-*( disponível na sessão* **download DirigIA** *)*
+*( disponível na sessão* **download (Instalador DirigIA.exe)** *)*
 
 ---
 
