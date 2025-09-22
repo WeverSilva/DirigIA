@@ -1,15 +1,27 @@
-# Ignorar tudo, exceto os arquivos essenciais
+# Ignorar tudo por padrão
 *
+
+# Manter recursos do projeto
 !Recursos/
-!Recursos/**  # Inclui todo o conteúdo dentro de Recursos
+!Recursos/**
+
+# Manter código e arquivos principais
 !DirigIA.py
+!DirigIA_Colab.py
+!Overlay_DirigIA_Colab.py
+!Loading_Overlay_DirigIA.py
 !README.md
 !LICENSE
 !.gitignore
 !requirements.txt
+!version.txt
 
+# Manter documentação
+!docs/
+!docs/**
+
+# Ignorar arquivos específicos
 *license.txt
-
 
 # Ignorar executáveis
 *.exe
@@ -18,3 +30,11 @@
 /build/
 /dist/
 *.spec
+
+# Ignorar ambientes virtuais
+.venv/
+venv/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
