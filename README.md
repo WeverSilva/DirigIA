@@ -47,7 +47,7 @@ git clone https://github.com/WeverSilva/DirigIA.git
 
 ---
 
-## **Download DirigIA.exe**
+## **Download (Instalador DirigIA.exe)**
 
 - **Windows:** [Clique aqui para baixar](https://drive.google.com/file/d/1oAy17taeGJZAg-GAA3qj6r93W_c8oApv/view?usp=sharing)
 
