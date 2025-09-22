@@ -37,7 +37,7 @@ O **DirigIA** é um sistema avançado de visão computacional desenvolvido para 
 ## **Etapas de Instalação**
 
 **1. Clone o repositório:**
-git clone https://github.com/WeverSilva/DirigIA_Interface_grafica.git
+git clone https://github.com/WeverSilva/DirigIA.git
    
 **2. Navegue até o diretório do projeto:**
   cd DirigIA.py
