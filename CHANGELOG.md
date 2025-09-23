@@ -19,8 +19,9 @@ e a numeração de versões segue [Semantic Versioning](https://semver.org/lang/
 ---
 
 ## [1.0.1] - 2025-09-22
-### Alterado
-- Tema escuro aplicado automaticamente na janela Browser para sincronizar com o modo "adaptive" do Google Colab.
+### Corrigido
+- Ajustada a cor para **#ff00ff** no perfil + seleção (**Essencial; Recomendado; Crítico**) no modo de tema adaptativo claro.
+- Adicionado comentário `'Output'` (com inicial maiúscula) na última célula/linha para compatibilidade com OCR.
 
 ---
 
