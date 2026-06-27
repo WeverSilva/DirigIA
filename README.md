@@ -1,24 +1,28 @@
+🌐 Leia também em [English](README_EN.md)
+
 # Bem-vindo à DirigIA!
 
-O **DirigIA** é um sistema avançado de visão computacional desenvolvido para o reconhecimento de objetos em veículos autônomos. Ele utiliza técnicas de Machine Learning, modelos como o YOLOv8, e uma interface gráfica interativa para oferecer alta precisão e eficiência.
+O **DirigIA** é um sistema avançado de visão computacional para veículos autônomos. Detecta em tempo real 21 classes de objetos através de uma câmera durante a condução, utilizando modelos como o **YOLOv8**. Além da interface futurista em **PyQt5**, inclui um **sistema de áudio personalizado com minha voz**, que emite alertas contextuais do trânsito para aumentar segurança e imersão.
 
 ---
 
 ## 🔍 Visão Geral
 
 - **Nome do aplicativo:** DirigIA
-- **Tema:** Desenvolvimento de um sistema de visão computacional para detecção de objetos em tempo real.
-- **Propósito:** Aumentar a segurança e eficiência de veículos autônomos, possibilitando o reconhecimento de objetos dinâmicos e estáticos, utilizando técnicas avançadas de Machine Learning e interfaces intuitivas.
+- **Tema:** Visão computacional aplicada a veículos autônomos.
+- **Propósito:** Aumentar a segurança e eficiência, reconhecendo objetos dinâmicos e estáticos em tempo real.
+- **Diferencial:** Interface multimodal com áudio humano personalizado e integração com Google Colab/Drive.
 
 ---
 
 ## ✨ Principais Características
 
-- **Detecção em tempo real:** Utiliza o YOLOv8 para identificar e rastrear diversos objetos com alta precisão.
-- **Interface personalizada:** Desenvolvida em PyQt5, com controles interativos e animações dinâmicas.
-- **Perfis adaptáveis:** Ajustes para diferentes parâmetros de detecção como **Crítico**, **Essencial** e **Recomendado**.
-- **Treinamento personalizado:** Compatível com datasets traduzidos para PT-BR, como o COCO Dataset.
-- **Menu flutuante:** Interface touch-friendly para configuração dinâmica.
+- 🚗 Detecção em tempo real de 21 classes de objetos via câmera.
+- 🎨 Interface futurista em PyQt5 com transparência, animações e automação de login.
+- 🔊 Áudio personalizado com minha voz, emitindo alertas contextuais do trânsito.
+- ☁️ Integração com Google Colab/Drive para armazenamento automático.
+- ⚡ Foco em desempenho, escalabilidade e UX/UI.
+- 💻 Distribuição com instalador profissional para Windows.
 
 ---
 
@@ -36,14 +40,11 @@ O **DirigIA** é um sistema avançado de visão computacional desenvolvido para 
 
 ## **Etapas de Instalação**
 
-**1. Clone o repositório:**
-git clone https://github.com/WeverSilva/DirigIA.git
+**1. Clone o repositório:** git clone https://github.com/WeverSilva/DirigIA.git
    
-**2. Navegue até o diretório do projeto:**
-  cd Loading_Overlay_DirigIA.py
+**2. Navegue até o diretório do projeto:** cd Loading_Overlay_DirigIA.py
 
-**3. Instale as dependências:**
-  pip install -r requirements.txt
+**3. Instale as dependências:** pip install -r requirements.txt
 
 ---
 
@@ -92,11 +93,15 @@ Veja o histórico completo de versões em [CHANGELOG.md](CHANGELOG.md).
 
   - **Essencial:** Configuração rápida e simplificada.
 
+  - *Perfis ajustam não apenas precisão e velocidade, mas também intensidade dos alertas sonoros.*
+
 ---
 
 ## **🏗️ Arquitetura do Código**
 
 - **Principais Componentes**
+
+  - **Interface/Áudio:** Integração entre visão computacional, interface gráfica e sistema de áudio multimodal.
 
   - **JanelaPrincipal:** Gerencia a interface gráfica, animações e estados (Ligado/Desligado).
 
@@ -121,6 +126,8 @@ model = YOLO("best.pt")
 results = model.predict(source="test_image.jpg", save=True)
 print(results)
 
+- *Compatível com datasets traduzidos para PT-BR, como COCO Dataset. Modelos treinados no Google Colab podem ser carregados para inferência em tempo real com câmera.*
+
 ---
 
 ## 🤝 Contribuição
@@ -143,4 +150,4 @@ print(results)
 
 ---
 
-# Obrigado por utilizar o DirigIA! Este é um passo importante para o avanço dos veículos autônomos com tecnologia de reconhecimento de objetos em tempo real. 🚗✨
+# Obrigado por utilizar o DirigIA! Este é um passo importante para o avanço dos veículos autônomos com tecnologia de reconhecimento de objetos em tempo real. 🚗✨ Contribuições são bem-vindas para evoluir este projeto open source.
