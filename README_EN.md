@@ -1,3 +1,5 @@
+🌐 Leia também em [Português](README.md)
+
 # Welcome to DirigIA!
 
 **DirigIA** is an advanced computer vision system for autonomous vehicles. It detects 21 object classes in real time through a camera while driving, using models such as **YOLOv8**. In addition to the futuristic interface built with **PyQt5**, it includes a **custom audio system with my own voice**, issuing contextual traffic alerts to enhance safety and immersion.
