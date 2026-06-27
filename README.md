@@ -1,4 +1,4 @@
-🌐 Leia também em [English](README_EN.md)
+🌐 Read more at [English](README_EN.md)
 
 # Bem-vindo à DirigIA!
 
